@@ -1,7 +1,3 @@
-// To parse this JSON data, do
-//
-//     final dictionaryModel = dictionaryModelFromJson(jsonString);
-
 import 'dart:convert';
 
 DictionaryModel dictionaryModelFromJson(String str) =>
